@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: prova 
+  description: Sto facendo una prova
+spec:
+  type: js
+  owner: Io
+  lifecycle: development
+  system: my-system
